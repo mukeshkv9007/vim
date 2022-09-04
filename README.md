@@ -55,7 +55,6 @@
 | Move cursor to the end of the current word | e |
 | Move cursor to the beginning of the previous word | b |
 | jump list keeps tracks of all the places | :jumps |
-
 | Jump back to the previous position | ctrl+o |
 | Jump to the next position | ctrl+i |
 
