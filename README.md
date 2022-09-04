@@ -38,7 +38,7 @@
 #### Editing 2  
 
 #### Navigation
-
+| How to  ?  | command |
 | Move cursor to left  | h |
 | Move cursor to right  | l |
 | Move cursor to upward  | k |
@@ -81,8 +81,8 @@
 
 
 #### MISC
-
-| highlight miss-spelled words |  :set spell|
+| How to  ?  | command |
+| highlight miss-spelled words |  :set spell |
 | complete word | ctrl+p |
 | Indent | =% |
 | Access Remote File | vim scp://user@server.com/filepath |
