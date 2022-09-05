@@ -36,6 +36,27 @@
 | join two lines | J |
 
 #### Editing 2  
+Buffer Buffer is temporary memory used by Vim, whenever we edit a file we are actually editing file from buffer
+Swap Swap area is a file created by Vim to store buffer contents periodically.
+| How to  ?  | command |
+| ------------- | ------------- |
+|To get actual name of swap file  | :swapname |
+| Delete character from cursor position | x |
+| Delete previous character from cursor position | X |
+| Copy single character from cursor position | y |
+| Paste character after cursor position | p |
+| Paste character before cursor position | P |
+| Delete word from cursor position | dw |
+| Delete entire line from cursor position | D |
+| Delete entire line | dd |
+| Copies entire line | Y |
+| Copies entire line | yy |
+| to delete 5 words  | 5dw |
+|  one time undo | u |
+| will undo last 3 actions  | 3u |
+| to undo all  | U |
+| redo | ctrl+r : red |
+|| |
 
 #### Navigation
 | How to  ?  | command |
